@@ -1,0 +1,47 @@
+.back{
+    background-color: none;
+    background-image: none;
+}
+.header
+{
+	background-color: #6aab52;
+}
+.co
+{
+  background-color: #6aab52;
+}
+.img{
+	border-radius: 100%;margin-left:22%;height:70%;width:60%;
+}
+.text{
+    width:80%;margin-left:10%;
+}
+.or{
+	margin-left:42%;color:royalblue;font-size: 160%;
+
+}
+
+.button.button-positivered {
+    border-color: transparent;
+    background-color: red;
+    color: #fff;
+}
+.button.button-positivegreen {
+    border-color: transparent;
+    background-color: #17dc17;
+    color: #fff;
+}
+.button.button-positiveorange {
+    border-color: transparent;
+    background-color: #6aab52;
+    color: #fff;
+}
+.item {
+	border:0px;
+	
+}
+.item2
+{
+	border:15px;
+ border-color: blue;
+}
